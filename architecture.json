@@ -1,0 +1,160 @@
+{
+  "book_id": "beat_generation_epistolary_gender_dynamics",
+  "title": "The Keeper of the Cracked Cups",
+  "tagline": "In the shadow of a Beat legend, two women fight to tell their own story.",
+  "target_words": 70000,
+  "actual_words": 78950,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Archivist vs. The Muse",
+    "Queer Erasure in Literary History",
+    "The Violence of Male Mythmaking",
+    "Epistolary Intimacy as Rebellion"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The White Flag",
+      "words": 3300
+    },
+    {
+      "ch": 2,
+      "title": "The Body at the Door",
+      "words": 3100
+    },
+    {
+      "ch": 3,
+      "title": "The Silent Monastery",
+      "words": 2900
+    },
+    {
+      "ch": 4,
+      "title": "The First Confession",
+      "words": 3200
+    },
+    {
+      "ch": 5,
+      "title": "Denver Ghost",
+      "words": 3400
+    },
+    {
+      "ch": 6,
+      "title": "The Borrowed Notebook",
+      "words": 3100
+    },
+    {
+      "ch": 7,
+      "title": "Carolyn's Letter",
+      "words": 3500
+    },
+    {
+      "ch": 8,
+      "title": "The Fire Escape Theory",
+      "words": 3300
+    },
+    {
+      "ch": 9,
+      "title": "Jazz Club Calculus",
+      "words": 3200
+    },
+    {
+      "ch": 10,
+      "title": "The Pawned Typewriter",
+      "words": 3100
+    },
+    {
+      "ch": 11,
+      "title": "Road Mathematics",
+      "words": 3400
+    },
+    {
+      "ch": 12,
+      "title": "The Unwritten Reply",
+      "words": 2900
+    },
+    {
+      "ch": 13,
+      "title": "Plotinus & Carburetors",
+      "words": 3500
+    },
+    {
+      "ch": 14,
+      "title": "The Wife as Territory",
+      "words": 3300
+    },
+    {
+      "ch": 15,
+      "title": "Archival Fever",
+      "words": 3200
+    },
+    {
+      "ch": 16,
+      "title": "The Second Arrival",
+      "words": 3100
+    },
+    {
+      "ch": 17,
+      "title": "Manifesto as Confession",
+      "words": 3400
+    },
+    {
+      "ch": 18,
+      "title": "The Cigar Box",
+      "words": 3000
+    },
+    {
+      "ch": 19,
+      "title": "Tompkins Square Parley",
+      "words": 3300
+    },
+    {
+      "ch": 20,
+      "title": "The Borrowed Voice",
+      "words": 3200
+    },
+    {
+      "ch": 21,
+      "title": "The Last Cigarette",
+      "words": 2900
+    },
+    {
+      "ch": 22,
+      "title": "The Great American Evaporation",
+      "words": 3400
+    },
+    {
+      "ch": 23,
+      "title": "The Editor's Knife",
+      "words": 3500
+    },
+    {
+      "ch": 24,
+      "title": "The Keeper's Choice",
+      "words": 3600
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a 'lost' letter from Carolyn Moriarty to Neal, responding to the affair from her perspective.",
+      "Draft a journal entry from Neal, written in the truck heading east, that she would never send to Jack.",
+      "Compose a monologue from Dean, hustling pool in Denver, explaining his side of the 'metaphysics' to a stranger.",
+      "Write the scene where Jack finally shows Neal what he's been writing about her and Dean."
+    ],
+    "technical": [
+      "Build an interactive map tracing the journey of the letters (NYC, SF, Denver) with annotated excerpts.",
+      "Create a text analysis tool comparing the linguistic 'fingerprints' of Jack's narration vs. Neal's quoted letters."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Joan Didion (cool dissection of myth)",
+      "James Baldwin (precision on identity & power)",
+      "Kathy Acker (literary piracy & gender disruption)",
+      "Jack Kerouac (raw material & rhythm)"
+    ]
+  },
+  "cover_prompt": "A determined female archivist, her face etched with focus and quiet rebellion, carefully arranges a collection of cracked porcelain teacups on a worn wooden table, each cup holding a fragile, handwritten letter, while the translucent, ghostly silhouette of a famous male Beat poet looms imposingly behind her, trying to obscure her work. The scene is set in a cluttered, intimate 1950s apartment archive at night, shelves overflowing with manuscripts and stolen ephemera, a single desk lamp cutting through the spectral haze, revealing intimate epistolary fragments between two women scattered amongst the cups. Rendered in the atmospheric, textured, and emotionally charged style of painter Alice Neel, with the intimate documentary quality of photographer Nan Goldin. Book cover framing, centered composition with a tight, dramatic close-up that feels both vulnerable and confrontational, as if catching a private act of reclamation. Dramatic chiaroscuro lighting with a warm, sepia-toned color palette for the intimate foreground, contrasted against the cold, blue-grey haze of the looming male silhouette. masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
