@@ -2,7 +2,8 @@
 
 ## CHAPTER 1
 
-The letter arrived smelling of diesel and damp wool, a grimy rectangle of envelope that looked like it had been used to blot a mechanic’s lunch. I found it shoved under the door of my cold-water flat on East 7th, a white flag of surrender from the hallway’s perpetual grime. No stamp. Just my name, *Jack*, in that frantic, forward-leaning scrawl I’d know anywhere. Neal’s handwriting always looked like it was trying to escape the page.
+Jack’s letter arrived smelling of whiskey and subway grit. I held the onion-skin paper to the window, Manhattan’s gray light bleeding through his frantic scrawl. *Dearest C—* it began, the dash like a crack in the world. He was already three hundred miles gone, chasing a truth that required my absence. My reply, not yet written, would be an anchor. He would call it a cage.
+
 
 I tore it open with a thumb, leaning against the doorframe. The radiator was singing its one-note song of complaint. Outside, a garbage truck performed its daily symphony of clanging doom.
 
